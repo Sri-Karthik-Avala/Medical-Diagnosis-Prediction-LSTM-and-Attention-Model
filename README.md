@@ -66,8 +66,8 @@ Attention networks are widely used in deep learning due to their ability to sele
 ## Screenshots
 
 ![dataset](images/dataset.jpg)
-![Model](images/attention_model.jpg)
-![results](images/sample_results.jpg)
+![attention_model](images/attention_model.jpg)
+![sample_results](images/sample_results.jpg)
 
 ## Acknowledgements
 
